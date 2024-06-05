@@ -7,6 +7,6 @@ A comprehensive Super Market Management System developed using Java, Swing, and 
 
 **Customer and Employee Management**: Facilitates the addition and deletion of customer and employee records, enabling the efficient management of personnel and customer relationships.
 
-**Order Tracking**: Tracks and manages orders placed by customers, providing real-time updates on order status and history.
+**Order Tracking**: manages orders placed by customers, providing real-time updates on inventory.
 
 **Customer Details**: Stores and organizes customer details, allowing for personalized interactions and targeted marketing strategies.
